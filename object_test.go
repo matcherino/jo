@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/mgutz/jo/dummy"
+	"github.com/matcherino/jo/dummy"
 	"github.com/stretchr/testify/assert"
 )
 

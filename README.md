@@ -10,7 +10,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/mgutz/jo"
+	"github.com/matcherino/jo"
 )
 
 func main() {

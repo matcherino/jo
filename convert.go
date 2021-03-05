@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/mgutz/to"
+	"github.com/matcherino/to"
 )
 
 var mapT = reflect.TypeOf(map[string]interface{}{})

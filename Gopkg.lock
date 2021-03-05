@@ -11,7 +11,7 @@
 [[projects]]
   branch = "master"
   digest = "1:124ed46e55fae0c87b2a96ce3f2b918df69a5a40f32b12b049a6fae12965a4f1"
-  name = "github.com/mgutz/to"
+  name = "github.com/matcherino/to"
   packages = ["."]
   pruneopts = "UT"
   revision = "00c06406c2dd2e011f153a6502a21473676db33f"
@@ -35,7 +35,7 @@
   analyzer-name = "dep"
   analyzer-version = 1
   input-imports = [
-    "github.com/mgutz/to",
+    "github.com/matcherino/to",
     "github.com/stretchr/testify/assert",
   ]
   solver-name = "gps-cdcl"
